@@ -6,7 +6,7 @@ Este é um projeto de interface web focado em uma experiência de usuário (UX) 
 
 Veja a funcionalidade de alternância (toggle) entre os formulários:
 
-[![Clique aqui para ver a demonstração](capa-video.png)](https://github.com/Pereiraaa-Lucas/Form-Interativo/blob/main/demo.mp4)
+[![Clique aqui para ver a demonstração](demo.mp4)
 ---
 
 ## 💡 Sobre o Projeto
