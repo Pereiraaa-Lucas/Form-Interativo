@@ -4,10 +4,9 @@ Este é um projeto de interface web focado em uma experiência de usuário (UX) 
 
 ## 🎥 Demonstração
 
-Veja a funcionalidade de alternância (toggle) entre os formulários:
+Clique na imagem abaixo para assistir à demonstração:
 
-[![Clique aqui para ver a demonstração](demo.mp4)
----
+[![Formulário Interativo](https://img.youtube.com/vi/-h8tlhdQNOw.jpg)](https://www.youtube.com/watch?v=-h8tlhdQNOW)
 
 ## 💡 Sobre o Projeto
 
